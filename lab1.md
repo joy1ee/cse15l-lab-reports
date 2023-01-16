@@ -25,6 +25,8 @@ This page is a tutorial for incoming 15L students.
 
 
 
+
+
 2. Step Two
 
 
@@ -37,6 +39,8 @@ This page is a tutorial for incoming 15L students.
 
 
 
+
+
 3. Step Three
 
 
@@ -44,6 +48,8 @@ This page is a tutorial for incoming 15L students.
 ![Image](4.png)
 * If you are a Mac user like me, you can find a small magnifying glass icon at the top right of the screen.
 * Simply select this icon and you can type terminal to open it.
+
+
 
 
 
@@ -61,15 +67,19 @@ This page is a tutorial for incoming 15L students.
 
 
 
+
+
 5. Step Five
 
 
 ![Image](6.png)
 * Now, this is time to use your password.
 * Type your password on the terminal.
-*In this step, **don’t panic!***
+* *In this step, **don’t panic!***
 * I was confused whether it was typing or not because I was not able to see any typed letters.
   If you cannot see your typing, that is fine. Keep going!
+
+
 
 
 
@@ -85,6 +95,8 @@ This page is a tutorial for incoming 15L students.
 
 
 
+
+
 7. Step Seven
 
 
@@ -92,6 +104,8 @@ This page is a tutorial for incoming 15L students.
 * Time for practice! Try running some commands:
   cd, pwd, mkdir,  ls -lat, ls -a, and cat /home/linux/ieng6/cs15lwi23/public/hello.txt etc.
 * Look how each command works.
+
+
 
 
 
