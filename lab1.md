@@ -4,6 +4,8 @@
 ## Joy Doyeon Lee
 ---
 **How to log into a course-specific account on ieng6**
+
+
 This page is a tutorial for incoming 15L students.
 
 
@@ -21,7 +23,8 @@ This page is a tutorial for incoming 15L students.
 
 ![Image](3.png)
 ![Image](4.png)
-* If you are a Mac user like me, you can find a small magnifying glass icon at the top right of the screen. * Simply select this icon and you can type terminal to open it.
+* If you are a Mac user like me, you can find a small magnifying glass icon at the top right of the screen.
+* Simply select this icon and you can type terminal to open it.
 
 ![Image](5.png)
 * When you open the terminal, you would see this screen.
