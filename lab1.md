@@ -4,6 +4,8 @@
 ## Joy Doyeon Lee
 ---
 **How to log into a course-specific account on ieng6**
+This page is a tutorial for incoming 15L students.
+
 
 ![Image](1.png)
 * First, go to look up your account for CSE15L: https://sdacs.ucsd.edu/~icc/index.php
