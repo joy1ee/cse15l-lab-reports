@@ -1,15 +1,11 @@
 # Lab Report 1
 ---
-## CSE15L_WI23_A00 | Joy Doyeon Lee (A17608409) | January 16th, 2023
+CSE15L_WI23_A00 | Joy Doyeon Lee (A17608409) | January 16th, 2023
 ---
 **How to log into a course-specific account on ieng6**
 
 
-
-
 This page is a tutorial for incoming 15L students.
-
-
 
 
 1. Step One
@@ -20,9 +16,6 @@ This page is a tutorial for incoming 15L students.
 * Make sure to remember your password. We’ll need this later.
 * If you forget your password, you can reset the password.
 * It will take few minutes to get updated so please take your time.
-
-
-
 
 
 
@@ -37,9 +30,6 @@ This page is a tutorial for incoming 15L students.
 
 
 
-
-
-
 3. Step Three
 
 
@@ -47,9 +37,6 @@ This page is a tutorial for incoming 15L students.
 ![Image](4.png)
 * If you are a Mac user like me, you can find a small magnifying glass icon at the top right of the screen.
 * Simply select this icon and you can type terminal to open it.
-
-
-
 
 
 
@@ -65,9 +52,6 @@ This page is a tutorial for incoming 15L students.
 
 
 
-
-
-
 5. Step Five
 
 
@@ -77,9 +61,6 @@ This page is a tutorial for incoming 15L students.
 * *In this step, **don’t panic!***
 * I was confused whether it was typing or not because I was not able to see any typed letters.
   If you cannot see your typing, that is fine. Keep going!
-
-
-
 
 
 
@@ -93,9 +74,6 @@ This page is a tutorial for incoming 15L students.
 
 
 
-
-
-
 7. Step Seven
 
 
@@ -103,9 +81,6 @@ This page is a tutorial for incoming 15L students.
 * Time for practice! Try running some commands:
   cd, pwd, mkdir,  ls -lat, ls -a, and cat /home/linux/ieng6/cs15lwi23/public/hello.txt etc.
 * Look how each command works.
-
-
-
 
 
 
