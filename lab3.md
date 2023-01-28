@@ -148,5 +148,5 @@ Here is the __code__ for my `StringServer`:
   
 ---
 ### <Part 3>
-* In Week 2, what I learned from the lab is how to make Search Engine and how to show integer/string values; using localhost:(any port number)/add?s=(any integer or string values)
+* In Week 2, what I learned from the lab is how to make Search Engine and how to show integer/string values; using *localhost:(any port number)/add?s=(any integer or string values)*
 * In Week 3, what I learned from the lab is how to get failing inputs, symptoms, and eventually identify the bugs with JUnit tests. I can see the difference between symptoms and bugs through the lab session.
