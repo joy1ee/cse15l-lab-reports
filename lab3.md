@@ -1,6 +1,6 @@
 # Lab Report 2
 ---
-CSE15L_WI23_A00 | Joy Lee (A17608409) | 30 January 2023
+CSE15L_WI23 | Joy Lee (A17608409) | 30 January 2023
 ---
 
 ###### This page contains three parts below.
@@ -54,41 +54,41 @@ Here is the __code__ for my `StringServer`:
 > ```
 
 
-* Basically, `StringServer.java` shows you the messages you type in your url.
-* It also __stores__ the messages you type in the url, so then it shows you all messages you type.
+* `StringServer.java` shows you the messages you type in your url.
+* It also __stores__ the messages you type in the url, so then it shows you all messages you typed.
 
 
 
 ![Image](message1.png)
-1. The method `handleRequest` is called to return `Joy to the world`
+1. The method `handleRequest` is called to return `Joy to the world!`
 2. The relevant argument to this method is url,<br />
    message is the value of the relevant field of the class.
 3. message variable is declared as "" which means empty.<br />
-   It shows `Joy to the world` since I typed Joy to the world after ?s=
+   It shows `Joy to the world!` since I typed Joy to the world after `?s=`
 
 
 
 ![Image](message2.png)
 *Like the message1 above, it has the similar answers for the first two questions.*
 1. Since the code stores your previous message,<br />
-   the method `handleRequest` is called to return `Joy to the world` and `Merry Christmas` both.
+   the method `handleRequest` is called to return `Joy to the world!` and `Merry Christmas` both.
 2. The relevant argument to this method is url,<br />
    message is the value of the relevant field of the class.
-3. message is added since I typed `Merry Christmas` after ?s= instead `Joy to the world`<br />
-   The code stores the previous message you typed and this is why it shows `Joy to the world` and `Merry Christmas` both.
+3. message is added since I typed `Merry Christmas` after `?s=` instead `Joy to the world!`<br />
+   The code stores the previous message you typed and this is why it shows `Joy to the world!` and `Merry Christmas` in this order.
 
 
 ---
 ### <Part 2>
   
 *I used the provided file `ArrayExamples.java` and `ArrayTests.java` to complete the Part2.*<br />
-*I changed the methods' name but code flows are the same.*
+*I changed the methods' names but code flows are the same.*
   
 * In `ArrayExamples` class, there is a method called `reverseOrder(int[] arr)`.
 * The way this method works is to change the input array to be in reversed order.
   
-* In `ArrayTests` class, I set up a tester using JUnit in order to check if `reverseInPlace` method works or not.
-* The tester is called `testReverseOrder()` and it check if the method `reverseOrder(int[] arr)` in the class `ArrayExamples` works.
+* In `ArrayTests` class, I set up a tester using JUnit called `testReverseOrder()`<br />
+* This tester checks if the method `reverseOrder(int[] arr)` in the class `ArrayExamples` works or not.
   
   
 * The __tester code__ in `ArrayTests` class:
@@ -124,7 +124,7 @@ Here is the __code__ for my `StringServer`:
 * As you can see, it occurs a bug and shows you an error message as a symptom.
 * `int[] input1 = {1, 2, 3, 4};` this part is a failure-inducing input
 * `assertArrayEquals(new int[]{4, 3, 2, 1}, input1);` this part shows you an error message.
-* The error messages said it caused by `java.lang.AssertionError` since expected value and actual value are different.
+* The error messages said it is caused by `java.lang.AssertionError` since expected value and actual value are different.
 
 * To __fix the bug__, I fixed the for loop in `reverseOrder(int[] arr)`: *this code does not make an input as a failure-inducing input.*
   
@@ -140,7 +140,7 @@ Here is the __code__ for my `StringServer`:
 > }
 > ```
 
-* The difference between the orignial code and fixed code is for loop.<br />
+* The difference between the orignial code and fixed code is the for loop.<br />
 * The original code occurs a bug because it does not save the current array element to replace it with its new position.
 * The fixed code works because it temporarily saves the element and moves the element inside the new index then replace it.
 
@@ -148,5 +148,5 @@ Here is the __code__ for my `StringServer`:
   
 ---
 ### <Part 3>
-* What I learned from lab2 is how to use url with port number<br />
-  and I can print both integer and string using my url; localhost:(any port number)
+* In Week 2, what I learned from the lab is how to make Search Engine and how to show integer/string values; using localhost:(any port number)/add?s=(any integer or string values)
+* In Week 3, what I learned from the lab is how to get failing inputs, symptoms, and eventually identify the bugs with JUnit tests. I can see the difference between symptoms and bugs through the lab session.
