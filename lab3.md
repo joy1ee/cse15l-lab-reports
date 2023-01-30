@@ -60,7 +60,7 @@ Here is the __code__ for my `StringServer`:
 
 
 
-
+![Image](message01.png)
 1. The method `handleRequest` is called to return `Joy to the world!`
 2. The relevant argument to this method is url,<br />
    message is the value of the relevant field of the class.
@@ -69,7 +69,7 @@ Here is the __code__ for my `StringServer`:
 
 
 
-![Image](message2.png
+![Image](message02.png)
 *Like the message1 above, it has the similar answers for the first two questions.*
 1. Since the code stores your previous message,<br />
    the method `handleRequest` is called to return `Joy to the world!` and `Merry Christmas` both.
