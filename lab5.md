@@ -15,7 +15,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 
 >```ruby
 >joy-lee-mbp:Castro JoyL$ pwd
->/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/OUP/Castro
+>/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/non-fiction/OUP/Castro
 >joy-lee-mbp:Castro JoyL$ grep -c "legend" chA.txt
 >4
 >```
@@ -33,7 +33,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 
 >```ruby
 >joy-lee-mbp:Rybczynski JoyL$ pwd
->/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/OUP/Rybczynski
+>/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/non-fiction/OUP/Rybczynski
 >joy-lee-mbp:Rybczynski JoyL$ grep -l "living" *
 >ch1.txt
 >ch3.txt
@@ -73,7 +73,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 
 >```ruby
 >joy-lee-mbp:Abernathy JoyL$ pwd
->/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/OUP/Abernathy
+>/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/non-fiction/OUP/Abernathy
 >joy-lee-mbp:Abernathy JoyL$ grep -o "clothing" ch9.txt
 >clothing
 >clothing
@@ -96,7 +96,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 
 >```ruby
 >joy-lee-mbp:Kauffman JoyL$ pwd
->/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/OUP/Kauffman
+>/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/non-fiction/OUP/Kauffman
 >joy-lee-mbp:Kauffman JoyL$ grep -n "coconstruction" ch8.txt
 >192:In short, there must be a self-consistent coconstruction of a biosphere in which organisms, ways of making a living, and search >mechanisms jointly and self-consistently come into existence. Organisms are not solving arbitrary problems. We are solving the kinds of >problems we can solve given our solution procedures. How could it be otherwise?
 >```
