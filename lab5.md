@@ -68,10 +68,10 @@ style
 -n command displays 
 path: /Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/OUP/Kauffman
 joy-lee-mbp:Kauffman JoyL$ grep -n "coconstruction" ch8.txt
-In short, there must be a self-consistent coconstruction of a biosphere in which organisms, ways of making a living, and search mechanisms jointly and self-consistently come into existence. Organisms are not solving arbitrary problems. We are solving the kinds of problems we can solve given our solution procedures. How could it be otherwise?
+192:In short, there must be a self-consistent coconstruction of a biosphere in which organisms, ways of making a living, and search mechanisms jointly and self-consistently come into existence. Organisms are not solving arbitrary problems. We are solving the kinds of problems we can solve given our solution procedures. How could it be otherwise?
 
 path: /Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/travel_guides/berlitz2
 
-joy-lee-mbp:berlitz2 Doyeon$ grep -w "gambling" California-WhereToGo.txt
-The city of Las Vegas grew out of a stopover at a natural oasis, which burgeoned after Nevada’s legalization of gambling in 1931. Today, visitors converge on Vegas from all over America. Many are still here for a bit of fun and titillation, and to lose a few bucks at roulette or blackjack, but Las Vegas now touts itself as a family destination.
-There are also alternatives to gambling — the big casinos offer live stage shows with all kinds of entertainment, from major singing stars to leggy extravaganzas like the Folies Bergères to world-title boxing matches. If you want to get out and about, there are opportunities for almost every type of recreation activity, including winter sports, within an hour of the city.
+joy-lee-mbp:berlitz2 Doyeon$ grep -n "gambling" California-WhereToGo.txt
+175:The city of Las Vegas grew out of a stopover at a natural oasis, which burgeoned after Nevada’s legalization of gambling in 1931. Today, visitors converge on Vegas from all over America. Many are still here for a bit of fun and titillation, and to lose a few bucks at roulette or blackjack, but Las Vegas now touts itself as a family destination.
+179:There are also alternatives to gambling — the big casinos offer live stage shows with all kinds of entertainment, from major singing stars to leggy extravaganzas like the Folies Bergères to world-title boxing matches. If you want to get out and about, there are opportunities for almost every type of recreation activity, including winter sports, within an hour of the city.
