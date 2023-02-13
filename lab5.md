@@ -5,7 +5,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 ---
 
 ###### This page explains 4 interesting command-line options for the command grep.
-###### Each command has two examples to show how command-line options work as well as show the path using pwd command.
+###### Each command has two examples to show how the command-line options work as well as show the path using pwd command.
 
 ---
 
