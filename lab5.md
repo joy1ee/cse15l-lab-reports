@@ -16,7 +16,6 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 >```ruby
 >joy-lee-mbp:Castro JoyL$ pwd
 >/Users/JoyL/Documents/GitHub/skill-demo1-data/written_2/OUP/Castro
->
 >joy-lee-mbp:Castro JoyL$ grep -c "legend" chA.txt
 >4
 >```
@@ -56,7 +55,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 13 February 2023<br />
 >IntroJapan.txt
 >IntroJerusalem.txt
 >WhatToGreek.txt
-> WhatToIndia.txt
+>WhatToIndia.txt
 >WhereToDublin.txt
 >WhereToFrance.txt
 >WhereToHongKong.txt
