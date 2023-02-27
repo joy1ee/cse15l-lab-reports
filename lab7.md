@@ -12,7 +12,7 @@ CSE15L_WI23 | Joy Lee (A17608409) | 27 February 2023<br />
 ### Step 4: Log into ieng6
 ![Image](step4.png)
 * Type `ssh cs15lwi23atu@ieng6.ucsd.edu` to log into ieng6. Press `<enter>`
-* As I generated SSH keys for ieng6, I do not need to type the password.<br />
+* As I generated SSH keys for ieng6, I do not need to type the password.<br /><br />
 
 ### Step 5: Clone your fork of the repository from your Github account
 ![Image](step5.png)
