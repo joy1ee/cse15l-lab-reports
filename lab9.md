@@ -165,7 +165,7 @@ or you are not sure whether you capitalized any characters.<br />
 ### 4th option: `-size` command
 `-size` command can be used to help find files larger (using `+` sign) or smaller (using `-` sign) than a specified size.<br />
 For the first example, I used `+100k`, where 'k' is for Kilobytes, resulting in searching for files that are larger than 100 Kilobytes.<br />
-For the second example, I used `-10k`, where 'k' is for Kilobytes, resulting in searching for files that are larger than 10 Kilobytes
+For the second example, I used `-10k`, where 'k' is for Kilobytes, resulting in searching for files that are smaller than 10 Kilobytes.<br />
 ###### (Source used: https://geekflare.com/how-to-use-find-command-in-linux/)
 
 >```ruby
